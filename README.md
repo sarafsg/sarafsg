@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Sara Gonçalves 👩‍💻  
+# Hey there! 👋 I'm Sara Gonçalves 👩‍💻  
 
 ## Junior Full Stack Developer
 
