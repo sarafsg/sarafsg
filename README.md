@@ -8,7 +8,6 @@ My coding journey is inspired by my passion for interior design and organization
 
 ### 🌟 About Me  
 
-- 🎂 32 years old  
 - 🇵🇹 Based in Portugal 
 - 🐕 Proud mom of two Akita dogs 
 - 🌱 Currently learning ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) and excited to keep growing as a developer  
