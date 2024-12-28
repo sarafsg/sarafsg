@@ -1,15 +1,15 @@
-# Hey there! 👋 I'm Sara Gonçalves 👩‍💻  
+# Hey there! 👋 I'm Sara Gonçalves  
 
-## Junior Full Stack Developer
+## 👩‍💻 Junior Full Stack Developer
 
 My coding journey is inspired by my passion for interior design and organization. I code like I organize a room: everything neat, comfy, and creative – no bugs allowed! I love refactoring complex challenges into smooth solutions, just like turning a messy space into a cozy user interface. Like a for loop, I iterate until everything is just right. I’m ready to merge creativity with functionality!  
 
 ---
 
-### 👩‍💻 About Me  
+### 🌟 About Me  
 
 - 🎂 32 years old  
-- 🇵🇹 Based in Portugal – Bringing a touch of creativity to coding  
+- 🇵🇹 Based in Portugal 
 - 🐕 Proud mom of two Akita dogs 
 - 🌱 Currently learning ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) and excited to keep growing as a developer  
 - 🛋️ When I'm not coding, I'm organizing or redesigning rooms to balance style and function
