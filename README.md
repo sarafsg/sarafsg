@@ -2,15 +2,13 @@
   <strong>Hey! 👋 I'm Sara Gonçalves</strong>
 </h1>
 
-<h2 align="center">
-  <strong>👩‍💻 Junior Full Stack Developer</strong>
-</h2>
-
 My coding journey is inspired by my passion for interior design and organization. I code like I organize a room: everything neat, comfy, and creative – no bugs allowed! I love refactoring complex challenges into smooth solutions, just like turning a messy space into a cozy user interface. Like a for loop, I iterate until everything is just right. I’m ready to merge creativity with functionality!  
 
 ---
 
 ### 🌟 About Me  
+
+👩‍💻 Junior Full Stack Developer
 
 - 🇵🇹 Based in Portugal 
 - 🐕 Proud mom of two Akita dogs 
