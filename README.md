@@ -1,6 +1,10 @@
-# Hey there! 👋 I'm Sara Gonçalves  
+<h1 align="center">
+  <strong>Hey! 👋 I'm Sara Gonçalves</strong>
+</h1>
 
-## 👩‍💻 Junior Full Stack Developer
+<h2 align="center">
+  <strong>👩‍💻 Junior Full Stack Developer</strong>
+</h2>
 
 My coding journey is inspired by my passion for interior design and organization. I code like I organize a room: everything neat, comfy, and creative – no bugs allowed! I love refactoring complex challenges into smooth solutions, just like turning a messy space into a cozy user interface. Like a for loop, I iterate until everything is just right. I’m ready to merge creativity with functionality!  
 
@@ -17,7 +21,7 @@ My coding journey is inspired by my passion for interior design and organization
 
 ### 🛠 Tech Stack  
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) | 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=coffeescript&logoColor=white) |
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | 
@@ -32,7 +36,7 @@ My coding journey is inspired by my passion for interior design and organization
 ### 🤝 Let’s Connect!  
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:sara.goncalves.pro@gmail.com) | 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saragoncalvesdev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saragoncalvesdev/) 
 
 ---
 
