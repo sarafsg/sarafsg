@@ -13,22 +13,19 @@ My coding journey is inspired by my passion for interior design and organization
 - 🇵🇹 Based in Portugal 
 - 🐕 Proud mom of two Akita dogs 
 - 🌱 Currently learning ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) and excited to keep growing as a developer
-- 💡 Interested in learning ![OutSystems](https://img.shields.io/badge/-OutSystems-0066CC?style=flat) and expanding my skills in ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-FFC107?logo=figma&logoColor=white&style=flat)
+- 📚 Interested in expanding my skills with ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-FFC107?logo=figma&logoColor=white&style=flat) and ![OutSystems](https://img.shields.io/badge/-OutSystems-0066CC?style=flat)
 - 🛋️ When I'm not coding, I'm organizing or redesigning rooms to balance style and function
 
 ---
 
 ### 🛠 Tech Stack  
 
-#### Frontend  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat) | 
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat) | 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-
-#### Backend  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) | 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=coffeescript&logoColor=white) | 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat) | 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) | 
