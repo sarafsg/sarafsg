@@ -13,7 +13,7 @@ My coding journey is inspired by my passion for interior design and organization
 - 🇵🇹 Based in Portugal 
 - 🐕 Proud mom of two Akita dogs 
 - 🌱 Currently learning ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) and excited to keep growing as a developer
-- 📚 Interested in expanding my skills with ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-FFC107?logo=figma&logoColor=white&style=flat) and ![OutSystems](https://img.shields.io/badge/-OutSystems-0066CC?style=flat)
+- 📚 Interested in expanding my skills with **UI/UX Design** and **OutSystems**
 - 🛋️ When I'm not coding, I'm organizing or redesigning rooms to balance style and function
 
 ---
