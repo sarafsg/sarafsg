@@ -20,10 +20,10 @@ My coding journey is inspired by my passion for interior design and organization
 
 ### 🛠 Tech Stack  
 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) | 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) | 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat) | 
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat) | 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) | 
