@@ -2,7 +2,8 @@
   <strong>Hey! 👋 I'm Sara Gonçalves</strong>
 </h1>
 
-My coding journey is inspired by my passion for interior design and organization. I code like I organize a room: everything neat, comfy, and creative – no bugs allowed! I love refactoring complex challenges into smooth solutions, just like turning a messy space into a cozy user interface. Like a for loop, I iterate until everything is just right. I’m ready to merge creativity with functionality!  
+Transforming ideas into reality has always been my passion - whether it’s organizing a space or building a website. 
+As a Junior Developer, I blend creativity and problem-solving in every project, creating user-friendly, visually engaging digital experiences. Focused on both functionality and design, I’m always learning and evolving. Together, let’s bring ideas to life!  
 
 ---
 
