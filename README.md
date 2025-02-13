@@ -2,8 +2,7 @@
   <strong>Hey! 👋 I'm Sara Gonçalves</strong>
 </h1>
 
-Transforming ideas into reality has always been my passion - whether it’s organizing a space or building a website. 
-As a Junior Developer, I blend creativity and problem-solving in every project, creating user-friendly, visually engaging digital experiences. Focused on both functionality and design, I’m always learning and evolving. Together, let’s bring ideas to life!  
+I transform ideas into functional, visually engaging experiences - from physical spaces to digital interfaces. As a Junior Developer, I apply creativity and problem-solving to craft intuitive, impactful solutions. Blending design with functionality, I deliver seamless digital experiences. I'm always learning and evolving. Let’s bring your vision to life!
 
 ---
 
