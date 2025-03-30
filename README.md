@@ -26,6 +26,5 @@ From optimizing physical spaces to coding digital experiences, I bring creativit
 
 ### 🤝 Let’s Connect!  
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:sara.goncalves.pro@gmail.com) | 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saragoncalvesdev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saragoncalvesdev/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.goncalves.pro@gmail.com)
 
