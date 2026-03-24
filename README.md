@@ -2,25 +2,53 @@
   <strong>Hey! 👋 I'm Sara Gonçalves</strong>
 </h1>
 
-From optimizing physical spaces to coding digital experiences, I bring creativity, organization, and a problem-solving mindset. As a Junior Developer, I focus on creating intuitive, user-centered interfaces, always learning and adapting to new challenges. I’m ready to collaborate on impactful projects!
+Frontend Developer focused on UI/UX and web performance, building and migrating web applications with Vue, Nuxt, React, Next.js, and TypeScript. I enjoy turning Figma designs into real interfaces and making sure they are fast, responsive, and easy to use.
 
 ---
 
 ### 🌟 About Me  
 
-👩‍💻 Junior Full Stack Developer
+👩‍💻 Frontend Developer (with full-stack experience)
 
-- 🇵🇹 Based in Portugal 
-- 🐕 Proud mom of two Akita dogs 
-- 🌱 Currently enhancing my ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) skills and excited to keep growing as a developer 
-- 📚 Focused on specializing in **Frontend Development** and **UI/UX**
-- 🛋️ When I'm not coding, I'm organizing or redesigning rooms to balance style and function
+- 🇵🇹 Based in Portugal  
+- ⚡ Working with Vue/Nuxt and React/Next in production environments  
+- 🎯 Focused on **Frontend Development**, **UI/UX**, and **Web Performance**  
+- 🔧 Experience building CMS-driven pages, user flows, and improving Core Web Vitals  
+- 🌍 Comfortable working in remote teams and collaborating with product, marketing, and backend  
+- 🛋️ When I'm not coding, I'm organizing or redesigning spaces to balance style and function
 
 ---
 
 ### 🛠 Tech Stack  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E&labelColor=F7DF1E)  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)    ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  **  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  **  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  **  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)   ![Figma](https://img.shields.io/badge/Figma-%23000.svg?style=for-the-badge&logo=figma&logoColor=white)
+#### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### UI / UX & Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
+
+#### Performance & SEO
+![Lighthouse](https://img.shields.io/badge/Lighthouse-Audits%20%26%20Optimization-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-LCP%20%7C%20FCP%20%7C%20TBT-0A66C2?style=for-the-badge)
+![Web Performance](https://img.shields.io/badge/Web_Performance-Optimization-1E90FF?style=for-the-badge)
+![SEO](https://img.shields.io/badge/SEO-Technical-228B22?style=for-the-badge)
+
+#### Backend (when needed)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+
+#### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
