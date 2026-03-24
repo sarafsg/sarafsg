@@ -2,7 +2,7 @@
   <strong>Hey! 👋 I'm Sara Gonçalves</strong>
 </h1>
 
-Frontend Developer focused on UI/UX and web performance, building and migrating web applications with Vue, Nuxt, React, Next.js, and TypeScript. I enjoy turning Figma designs into real interfaces and making sure they are fast, responsive, and easy to use.
+Frontend Developer focused on UI/UX and web performance, experienced in building and migrating web applications with React, Next, Vue, Nuxt and TypeScript. Collaborate with product teams on design decisions and implement interfaces that are clear, intuitive, and enjoyable for users. Comfortable contributing across the full stack when needed and highly productive in remote work environments.
 
 ---
 
@@ -13,8 +13,7 @@ Frontend Developer focused on UI/UX and web performance, building and migrating 
 - 🇵🇹 Based in Portugal  
 - ⚡ Working with Vue/Nuxt and React/Next in production environments  
 - 🎯 Focused on **Frontend Development**, **UI/UX**, and **Web Performance**  
-- 🔧 Experience building CMS-driven pages, user flows, and improving Core Web Vitals  
-- 🌍 Comfortable working in remote teams and collaborating with product, marketing, and backend  
+- 🌍 Working in remote teams and collaborating with product, marketing, and backend  
 - 🛋️ When I'm not coding, I'm organizing or redesigning spaces to balance style and function
 
 ---
