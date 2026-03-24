@@ -2,7 +2,7 @@
   <strong>Hey! 👋 I'm Sara Gonçalves</strong>
 </h1>
 
-Frontend Developer focused on UI/UX and web performance, experienced in building and migrating web applications with React, Next, Vue, Nuxt and TypeScript. Collaborate with product teams on design decisions and implement interfaces that are clear, intuitive, and enjoyable for users. Comfortable contributing across the full stack when needed and highly productive in remote work environments.
+Frontend Developer focused on UI/UX and web performance, experienced in building and migrating web applications with React, Next.js, Vue, Nuxt, and TypeScript. I collaborate with product teams on design decisions, and work closely with marketing and backend teams when building and integrating features. Comfortable contributing across the full stack when needed and working effectively in remote environments.
 
 ---
 
